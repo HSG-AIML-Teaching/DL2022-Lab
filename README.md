@@ -27,9 +27,9 @@ This table lists all lab session and coding challenge session incl. the launcher
 
 | Date                    | Lab        |  Content                         |  CoLab                 | MyBinder| 
 |:-----------------------:|:--------------:|:---------------------------------|:-------------------------------:|:-------:|
-| Mon, OCT. 10            | **Lab 1**   | Meta Learning          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](-) | [![Binder](https://mybinder.org/badge_logo.svg)](-) |
-| Mon, OCT. 17            | **Lab 2**   | Continual Learning     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](-) | [![Binder](https://mybinder.org/badge_logo.svg)](-) |
-| Mon, OCT. 24            | **Lab 3**   | Segmentation           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](-) | [![Binder](https://mybinder.org/badge_logo.svg)](-) |
+| Mon, OCT. 10            | **Lab 1**   | Meta Learning          | TBA | TBA |
+| Mon, OCT. 17            | **Lab 2**   | Continual Learning     | TBA | TBA |
+| Mon, OCT. 24            | **Lab 3**   | Segmentation           | TBA | TBA |
 
 
 
