@@ -27,7 +27,7 @@ This table lists all lab session and coding challenge session incl. the launcher
 
 | Date                    | Lab        |  Content                         |  CoLab                 | MyBinder| 
 |:-----------------------:|:--------------:|:---------------------------------|:-------------------------------:|:-------:|
-| Mon, OCT. 10            | **Lab 1**   | Meta Learning          | TBA | TBA |
+| Mon, OCT. 10            | **Lab 1**   | Meta Learning          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/DL2022-Lab/blob/main/lab_1/meta-learning_lab.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/DL2022-Lab/main?filepath=lab_1%2Fmeta-learning_lab.ipynb) |
 | Mon, OCT. 17            | **Lab 2**   | Continual Learning     | TBA | TBA |
 | Mon, OCT. 24            | **Lab 3**   | Segmentation           | TBA | TBA |
 
